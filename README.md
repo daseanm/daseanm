@@ -9,8 +9,6 @@ Currently Leaning HTML, C++ and Swift.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=daseanm)
-
 ---
 
-Copyright © 2024 Sean. All Rights Reserved.
+Copyright © 2024 Sean. All Rights Reserved. | ![Profile View Counter](https://komarev.com/ghpvc/?username=daseanm)
